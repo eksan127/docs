@@ -1,0 +1,216 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "luma",
+  "name": "XSN Lite",
+  "colors": {
+    "primary": "#1D4ED8",
+    "light": "#3B82F6",
+    "dark": "#1E40AF"
+  },
+  "favicon": {
+    "light": "/images/favicon-dark-white-blue.svg",
+    "dark": "/images/favicon-dark-white-blue.svg"
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Home",
+        "icon": "house",
+        "pages": [
+          "home",
+          "latest-version"
+        ]
+      },
+      {
+        "tab": "Apps",
+        "pages": [
+          "apps",
+          {
+            "group": "Morphe App",
+            "pages": [
+              "yt-morphe-lite",
+              "ytm-morphe-lite",
+              "reddit-morphe-lite"
+            ],
+            "expanded": true
+          },
+          {
+            "group": "Piko App",
+            "pages": [
+              "x-twitter-piko-lite",
+              "insta-piko-lite"
+            ],
+            "expanded": true
+          },
+          {
+            "group": "Other App",
+            "pages": [
+              "gboard-plus",
+              "g-photos-lite",
+              "tiktok-metra"
+            ],
+            "expanded": true
+          }
+        ],
+        "icon": "mobile"
+      },
+      {
+        "tab": "Wiki",
+        "icon": "book",
+        "pages": [
+          "wiki",
+          "youtube-alternatives",
+          "yt-music-alternatives",
+          "spot-ify-installer",
+          "list-of-telegram-client",
+          "spotify-ad-free-with-nextdns",
+          "windows-terminal",
+          "internet-download-manager-idm"
+        ]
+      }
+    ],
+    "global": {
+      "dropdowns": [
+        {
+          "dropdown": "Latest version",
+          "icon": "rocket-launch",
+          "description": "of all apps",
+          "href": "https://xsnlite.app/latest-version",
+          "color": {
+            "light": "#1E40AF",
+            "dark": "#1E40AF"
+          }
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/images/branding-logo-dark-blue.svg",
+    "dark": "/images/branding-logo-white-blue.svg",
+    "href": "https://xsnlite.app"
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Support Me",
+      "href": "https://xsnlite.app/home#support-me"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "chatgpt",
+      "claude",
+      "assistant",
+      "download-pdf"
+    ],
+    "display": "toc"
+  },
+  "icons": {
+    "library": "fontawesome"
+  },
+  "styling": {
+    "eyebrows": "section",
+    "latex": true
+  },
+  "description": "Open World of Tech",
+  "errors": {
+    "404": {
+      "redirect": false
+    }
+  },
+  "background": {
+    "decoration": "windows"
+  },
+  "interaction": {
+    "drilldown": false
+  },
+  "search": {
+    "prompt": "Search"
+  },
+  "fonts": {
+    "family": "Inter"
+  },
+  "footer": {
+    "links": [
+      {
+        "header": "Partner",
+        "items": [
+          {
+            "label": "XSN Lite Telegram",
+            "href": "https://t.me/morphexsnlite"
+          },
+          {
+            "label": "XSN Lite WhatsApp ",
+            "href": "https://whatsapp.com/channel/0029Vb5lYPi7YSd3ugsaVS2Z"
+          }
+        ]
+      },
+      {
+        "header": "Sponsors",
+        "items": [
+          {
+            "label": "TeknoLugu",
+            "href": "https://t.me/TeknoLugu"
+          },
+          {
+            "label": "Tentang WhatsApp",
+            "href": "https://t.me/TentangWhatsApp"
+          },
+          {
+            "label": "Akannikah",
+            "href": "https://akannikah.id/"
+          },
+          {
+            "label": "Azhe403",
+            "href": "https://azhe.my.id/"
+          }
+        ]
+      },
+      {
+        "header": "Resources",
+        "items": [
+          {
+            "label": "Morphe",
+            "href": "https://github.com/MorpheApp"
+          },
+          {
+            "label": "Crimera/Piko",
+            "href": "https://github.com/crimera/piko"
+          },
+          {
+            "label": "Adobo",
+            "href": "https://github.com/jkennethcarino/adobo"
+          },
+          {
+            "label": "Jasonwu1994",
+            "href": "https://github.com/jasonwu1994/Gboard-patches"
+          },
+          {
+            "label": "De-Vanced",
+            "href": "https://github.com/RookieEnough/De-Vanced"
+          },
+          {
+            "label": "icysymmetra",
+            "href": "https://github.com/icysymmetra/tiktok-patches-for-morphe"
+          },
+          {
+            "label": "APKMirror",
+            "href": "https://www.apkmirror.com"
+          }
+        ]
+      }
+    ]
+  },
+  "appearance": {
+    "strict": false
+  },
+  "banner": {
+    "content": "✨ New version for Morphe App is available, [read more...](https://xsnlite.app/apps#morpheapp)",
+    "type": "info",
+    "color": {
+      "light": "#3B82F6",
+      "dark": "#1E40AF"
+    }
+  }
+}
