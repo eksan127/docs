@@ -25,7 +25,7 @@
         "tab": "Apps",
         "pages": [
           "apps",
-          "untitled-page",
+          "configure-potoken-helper",
           {
             "group": "Morphe App",
             "pages": [
