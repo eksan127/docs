@@ -25,6 +25,7 @@
         "tab": "Apps",
         "pages": [
           "apps",
+          "untitled-page",
           {
             "group": "Morphe App",
             "pages": [
