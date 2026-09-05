@@ -212,6 +212,7 @@
     "color": {
       "light": "#3B82F6",
       "dark": "#1E40AF"
-    }
+    },
+    "dismissible": true
   }
 }
