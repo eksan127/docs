@@ -36,7 +36,7 @@ Login normally by typing your username and password, don't use Google Button
 ## **Download**
 
 <Tabs>
-  <Tab title="Legacy X" icon="square-twitter">
+  <Tab title="Legacy X" icon="square-twitter" iconType="solid">
     <Columns cols={2}>
       <Column>
         <Card title="v12.19.1-release.0" icon="file-download" iconType="solid" horizontal href="https://www.mediafire.com/folder/mucszr6aqj94i/X_Piko_Lite">
@@ -54,14 +54,10 @@ Login normally by typing your username and password, don't use Google Button
       - [Update patch v3.9.0](https://github.com/crimera/piko/releases/tag/v3.9.0)
     </Accordion>
   </Tab>
-  <Tab title="New X" icon="square-x-twitter">
-    <Warning>
-      Before you use this version please read this
-
-      This version is Experimental build and using experimental version of patch by piko<br />Not all features from legacy X/Twitter applied on this version (you can read on list patch under download button)<br />You can login normally using your Username and Password, and if you fail login that not because patched app but because Twitter itself
-
-      _"The attestation issue occurring during login isn't caused due to patch error._<br />_Since october 2025 twitter has started checking whether the app is modified or if the phone's integrity is failing, during login activity._<br />_And the sad part is these checks are done on the server side not on the client, by dev Piko"_
-    </Warning>
+  <Tab title="New X" icon="square-x-twitter" iconType="solid">
+    <Note>
+      Not all features from legacy X/Twitter applied on this version (you can read on list patch under download button)
+    </Note>
 
     <Columns cols={2}>
       <Column>
@@ -69,7 +65,7 @@ Login normally by typing your username and password, don't use Google Button
           Download
         </Card>
 
-        <Badge color="green" shape="pill" stroke icon="clock" iconType="solid">Last update: 06 September 2026</Badge>
+        <Badge color="green" shape="pill" stroke icon="clock" iconType="solid">Last update: 08 September 2026</Badge>
       </Column>
       <Column>
       </Column>
@@ -105,11 +101,22 @@ Login normally by typing your username and password, don't use Google Button
       - Restore timeline position
       - Show sensitive media
       - Filter posts by keyword
+      - Customize timeline tabs
+      - Hide post replay bar
+      - Disable blur effects
+      - Hide timeline tabs bar
+      - Show poll results
     </Accordion>
 
-    <Accordion title="Changelogs" icon="list-check">
-      - 🆕 New base v12.23.1.prod.01
-      - 🆕 Patch-v3.10.1.mpp
+    <Accordion title="Changelogs" defaultOpen icon="list-check">
+      - 🆕 Update file v2
+      - 🆕 Patch-v3.11.0.mpp
+      - 🆕 Enable from patch
+        - Customize timeline tabs
+        - Hide post replay bar
+        - Disable blur effects
+        - Hide timeline tabs bar
+        - Show poll results
     </Accordion>
   </Tab>
 </Tabs>
