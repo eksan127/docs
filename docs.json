@@ -107,7 +107,8 @@
       "type": "button",
       "label": "Support Me",
       "href": "https://xsnlite.app/home#support-me"
-    }
+    },
+    "links": []
   },
   "contextual": {
     "options": [
@@ -123,7 +124,7 @@
     "library": "fontawesome"
   },
   "styling": {
-    "eyebrows": "section",
+    "eyebrows": "breadcrumbs",
     "latex": true
   },
   "description": "Open World of Tech",
@@ -226,5 +227,10 @@
       "dark": "#1E40AF"
     },
     "dismissible": true
+  },
+  "thumbnails": {
+    "fonts": {
+      "family": "Inter"
+    }
   }
 }
