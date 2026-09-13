@@ -220,7 +220,7 @@
     "strict": false
   },
   "banner": {
-    "content": "✨ New version for Piko Apps is available, [read more...](https://xsnlite.app/apps#pikoapp)",
+    "content": "✨ New version of Experimental Morphe Apps is available, [read more...](https://xsnlite.app/apps#morpheapp)",
     "type": "info",
     "color": {
       "light": "#3B82F6",
