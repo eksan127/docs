@@ -70,16 +70,18 @@
         ]
       },
       {
-        "tab": "Drop Test",
-        "icon": "circle-xmark",
+        "tab": "Channel",
+        "icon": "bullhorn",
         "menu": [
           {
-            "item": "Menu 1 test",
+            "item": "Telegram",
             "icon": "telegram",
-            "href": "https://google.com"
+            "href": "https://t.me/morphexsnlite"
           },
           {
-            "item": "Menu 2 test"
+            "item": "WhatsApp",
+            "icon": "whatsapp",
+            "href": "https://whatsapp.com/channel/0029Vb5lYPi7YSd3ugsaVS2Z"
           }
         ]
       }
@@ -92,8 +94,8 @@
           "description": "of all apps",
           "href": "https://xsnlite.app/latest-version",
           "color": {
-            "light": "#1E40AF",
-            "dark": "#1E40AF"
+            "light": "#1D4ED8",
+            "dark": "#1D4ED8"
           }
         }
       ]
