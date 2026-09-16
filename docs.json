@@ -74,7 +74,9 @@
         "icon": "circle-xmark",
         "menu": [
           {
-            "item": "Menu 1 test"
+            "item": "Menu 1 test",
+            "icon": "telegram",
+            "href": "https://google.com"
           },
           {
             "item": "Menu 2 test"
@@ -161,7 +163,7 @@
         ]
       },
       {
-        "header": "Sponsors",
+        "header": "Our friends",
         "items": [
           {
             "label": "TeknoLugu",
