@@ -189,6 +189,10 @@
         "header": "Resources",
         "items": [
           {
+            "label": "APKMirror",
+            "href": "https://www.apkmirror.com"
+          },
+          {
             "label": "Morphe",
             "href": "https://github.com/MorpheApp"
           },
@@ -213,8 +217,8 @@
             "href": "https://github.com/icysymmetra/tiktok-patches-for-morphe"
           },
           {
-            "label": "APKMirror",
-            "href": "https://www.apkmirror.com"
+            "label": "Kveld9",
+            "href": "https://github.com/kveld9/kveld-morphe-patches"
           }
         ]
       }
