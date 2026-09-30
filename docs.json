@@ -44,12 +44,19 @@
             "expanded": true
           },
           {
+            "group": "Hush App",
+            "pages": [
+              "hush-facebook",
+              "hush-threads"
+            ],
+            "expanded": true
+          },
+          {
             "group": "Other App",
             "pages": [
               "gboard-plus",
               "g-photos-lite",
-              "tiktok-metra",
-              "hush-facebook"
+              "tiktok-metra"
             ],
             "expanded": true
           }
