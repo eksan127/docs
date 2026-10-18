@@ -47,7 +47,8 @@
             "group": "Hush App",
             "pages": [
               "hush-facebook",
-              "hush-threads"
+              "hush-threads",
+              "hush-messenger"
             ],
             "expanded": true
           },
