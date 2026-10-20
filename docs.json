@@ -75,7 +75,8 @@
           "list-of-telegram-client",
           "spotify-ad-free-with-nextdns",
           "windows-terminal",
-          "internet-download-manager-idm"
+          "internet-download-manager-idm",
+          "ublock-origin-lite"
         ]
       },
       {
@@ -126,9 +127,6 @@
   "contextual": {
     "options": [
       "copy",
-      "chatgpt",
-      "claude",
-      "assistant",
       "download-pdf"
     ],
     "display": "toc"
