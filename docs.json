@@ -246,6 +246,11 @@
   "thumbnails": {
     "fonts": {
       "family": "Inter"
+    },
+    "preset": "headline",
+    "surface": "brand",
+    "eyebrow": {
+      "style": "pill"
     }
   }
 }
