@@ -15,7 +15,7 @@
     "tabs": [
       {
         "tab": "Home",
-        "icon": "/icons/tab/home.svg",
+        "icon": "/assets/tab/home.svg",
         "pages": [
           "home",
           "latest-version"
@@ -23,7 +23,7 @@
       },
       {
         "tab": "Apps",
-        "icon": "/icons/tab/apps.svg",
+        "icon": "/assets/tab/apps.svg",
         "pages": [
           "apps",
           "configure-potoken-helper",
@@ -69,7 +69,7 @@
       },
       {
         "tab": "Wiki",
-        "icon": "/icons/tab/wiki.svg",
+        "icon": "/assets/tab/wiki.svg",
         "pages": [
           "wiki",
           "youtube-alternatives",
@@ -84,7 +84,7 @@
       },
       {
         "tab": "Channel",
-        "icon": "/icons/tab/channel.svg",
+        "icon": "/assets/tab/channel.svg",
         "menu": [
           {
             "item": "Telegram",
