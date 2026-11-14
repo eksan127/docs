@@ -23,6 +23,7 @@
       },
       {
         "tab": "Apps",
+        "icon": "/Icons/tab/apps.svg",
         "pages": [
           "apps",
           "configure-potoken-helper",
@@ -64,12 +65,11 @@
             ],
             "expanded": true
           }
-        ],
-        "icon": "mobile"
+        ]
       },
       {
         "tab": "Wiki",
-        "icon": "book",
+        "icon": "/Icons/tab/wiki.svg",
         "pages": [
           "wiki",
           "youtube-alternatives",
@@ -84,7 +84,7 @@
       },
       {
         "tab": "Channel",
-        "icon": "bullhorn",
+        "icon": "/Icons/tab/channel.svg",
         "menu": [
           {
             "item": "Telegram",
