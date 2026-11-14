@@ -15,7 +15,7 @@
     "tabs": [
       {
         "tab": "Home",
-        "icon": "house",
+        "icon": "/Icons/tab/home.svg",
         "pages": [
           "home",
           "latest-version"
