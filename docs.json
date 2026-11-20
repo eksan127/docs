@@ -103,7 +103,7 @@
       "dropdowns": [
         {
           "dropdown": "Latest version",
-          "icon": "/assets/icon/sparkling.svg",
+          "icon": "rocket-launch",
           "description": "of all apps",
           "href": "https://xsnlite.app/latest-version",
           "color": {
