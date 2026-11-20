@@ -88,12 +88,12 @@
         "menu": [
           {
             "item": "Telegram",
-            "icon": "telegram",
+            "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/telegram.svg",
             "href": "https://t.me/morphexsnlite"
           },
           {
             "item": "WhatsApp",
-            "icon": "whatsapp",
+            "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/whatsapp.svg",
             "href": "https://whatsapp.com/channel/0029Vb5lYPi7YSd3ugsaVS2Z"
           }
         ]
@@ -103,7 +103,7 @@
       "dropdowns": [
         {
           "dropdown": "Latest version",
-          "icon": "rocket-launch",
+          "icon": "/assets/icon/sparkling.svg",
           "description": "of all apps",
           "href": "https://xsnlite.app/latest-version",
           "color": {
