@@ -1,0 +1,15 @@
+.custom-download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.2rem;
+  border-radius: 0.5rem;
+  background-color: #1D4ED8;
+  color: #ffffff !important;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.custom-download-btn:hover {
+  opacity: 0.9;
+}
